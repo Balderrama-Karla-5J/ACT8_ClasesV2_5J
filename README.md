@@ -2,11 +2,12 @@
 Ejemplos de clases y POO
 ## Clases 
 - Codigo
-- ![image](https://github.com/user-attachments/assets/cbd34de9-d31f-47e5-ac22-d40fac55ab1c)
-- ![image](https://github.com/user-attachments/assets/e5dbbda0-7737-4a6c-bf9f-7ce64a5f01c1)
+-![image](https://github.com/user-attachments/assets/eba5b3b1-e84c-471e-ae6d-37c1f77f787b)
+![image](https://github.com/user-attachments/assets/b743ce39-b791-481a-99f7-a89d0c2e2298)
 
 -  Resultado
--  ![image](https://github.com/user-attachments/assets/29500ca6-9ba9-4aad-a1d9-d2acb9b0259f)
+-  ![image](https://github.com/user-attachments/assets/d9547611-ffb4-45a8-b10e-fc0524369e15)
+
 
 
   
